@@ -1,0 +1,191 @@
+canonical_identifier: bkk:krp/KR6j0683/v1
+canonical_location: https://kanripo.org/bkk/KR6j0683/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經正脉疏
+  identifiers:
+    alt_id:
+    - X12n0275
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X12/X12n0275.xml
+    old_id: X12n0275
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0683_000.yaml, hash: 'sha256:e571065b664f5a4c21f8d20e0a10443ce4488ef0303b0a4cc8c5e637f4d698ca'}
+  - {seq: 1, filename: KR6j0683_001.yaml, hash: 'sha256:acb3aa819f3abcb014cd8a6a36fb4a5c2501786582d6684b47ff07c99ba659b6'}
+  - {seq: 2, filename: KR6j0683_002.yaml, hash: 'sha256:8f3cd3b484badbdf9054b16e7787f212cf6b830bfe5e0aa59721c0d934f54885'}
+  - {seq: 3, filename: KR6j0683_003.yaml, hash: 'sha256:d4ff9955f138dda4483cb71fe9bc212fcead33b9ec2a84c7a208f1e0939e1fc5'}
+  - {seq: 4, filename: KR6j0683_004.yaml, hash: 'sha256:ce0f5c8f62191a3998cf0897892d196c7cb521e6b8dedb204c3b53e74edb1eaf'}
+  - {seq: 5, filename: KR6j0683_005.yaml, hash: 'sha256:bd74523ca1b720d3bd76d49ea5da69fb61d15ee24cb3e6c3c7f1cbd20ea91ccf'}
+  - {seq: 6, filename: KR6j0683_006.yaml, hash: 'sha256:ec3f740104c4f3bab6bd29d99c3da3035048ad0edacef0c6e68c9d3049ac827f'}
+  - {seq: 7, filename: KR6j0683_007.yaml, hash: 'sha256:90675a2477266fcc0f1b2a57626dab03c1fb6b0c6263487f7215754537ca55c1'}
+  - {seq: 8, filename: KR6j0683_008.yaml, hash: 'sha256:1910bed6809bb2e3f6de9dd19bfdb5aabf141598ce97a898f3233f4e887113b9'}
+  - {seq: 9, filename: KR6j0683_009.yaml, hash: 'sha256:a206b9e504782f3d6e6d576526415b8057c2fa6722566301fc73f55a1b6bddb7'}
+  - {seq: 10, filename: KR6j0683_010.yaml, hash: 'sha256:6f6533297d5182f65303e36069bc400d12807984f240a00ced545e42db59d14b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0683_000.markers.yaml, hash: 'sha256:0f32bce4eccddcf42490572aad97b248359775cd3815cb038ef19049c5d16047'}
+  - {seq: 1, role: markers, filename: assets/KR6j0683_001.markers.yaml, hash: 'sha256:276b173e7a1272f4f50eee5cf4fa9f09fc3b6b057a3fd1403b418ce3648464ee'}
+  - {seq: 2, role: markers, filename: assets/KR6j0683_002.markers.yaml, hash: 'sha256:9755cdbb02ecdcd056f197ff4315a979ad53e3db0b28b208a84ccbda81026747'}
+  - {seq: 3, role: markers, filename: assets/KR6j0683_003.markers.yaml, hash: 'sha256:343aea1fb8376a3a1dcb37da97a3252aaf5d636cfd05a33a871212f5d6f0adaf'}
+  - {seq: 4, role: markers, filename: assets/KR6j0683_004.markers.yaml, hash: 'sha256:35bdf5e0270d14bc8c28a92e35a459bb0553dcdc555121182601ebabcaafd8c2'}
+  - {seq: 5, role: markers, filename: assets/KR6j0683_005.markers.yaml, hash: 'sha256:afe8d67b974d33dda9948193ecf7b3c466562e82ba1f4a5b6469ccfe9cd08185'}
+  - {seq: 6, role: markers, filename: assets/KR6j0683_006.markers.yaml, hash: 'sha256:c7ccc94e53276c988767f3693d4615349bbb5a82b6e9619f4d09e5899aba00d2'}
+  - {seq: 7, role: markers, filename: assets/KR6j0683_007.markers.yaml, hash: 'sha256:a0aeac093728fa3902b284d536831aaa67ba5b565b5874b9b94a6003180cf0ec'}
+  - {seq: 8, role: markers, filename: assets/KR6j0683_008.markers.yaml, hash: 'sha256:d9cbd1163fde22b813d0868deee3804e9b1734a244058616d9742df7f1686fbf'}
+  - {seq: 9, role: markers, filename: assets/KR6j0683_009.markers.yaml, hash: 'sha256:6bee0f5bc4b45bef6d388112807f13942f79b5a752bb7eaff67785679746eee8'}
+  - {seq: 10, role: markers, filename: assets/KR6j0683_010.markers.yaml, hash: 'sha256:4c2e67b54c5d816a0c2167d408245f4b6379544aa890d6fba115e38206b9b33d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0683_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 275-A 大佛頂首楞嚴經正脉疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0683_X_000-mulu-2
+    span:
+    - front
+    - 1055
+    - 1055
+  label: 楞嚴經正脉疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0683_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 35959
+  label: 大佛頂首楞嚴經正脉疏卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0683_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 41973
+  label: 大佛頂首楞嚴經正脉疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0683_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 32807
+  label: 大佛頂首楞嚴經正脉疏卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0683_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 57748
+  label: 大佛頂首楞嚴經正脉疏卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0683_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 31062
+  label: 大佛頂首楞嚴經正脉疏卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0683_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 41694
+  label: 大佛頂首楞嚴經正脉疏卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0683_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 22760
+  label: 大佛頂首楞嚴經正脉疏卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0683_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 45859
+  label: 大佛頂首楞嚴經正脉疏卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0683_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 31409
+  label: 大佛頂首楞嚴經正脉疏卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0683_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 26170
+  label: 大佛頂首楞嚴經正脉疏卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0683_X_010-mulu-1
+    span:
+    - body
+    - 25373
+    - 25373
+  label: No. 275-B 刊楞嚴正脉後䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0683_X_010-mulu-2
+    span:
+    - body
+    - 25933
+    - 25933
+  label: No. 275-C
+  type: mulu
+  level: 1
+hash: sha256:3e9e33ccf14be65f1bb35ad2a2c977b76cc9d564d1808b898e01d89207412090
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
