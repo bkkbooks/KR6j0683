@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0683_000-X.yaml, hash: 'sha256:46e8b6da00c14ad1d3cff0289f39ef06aab559017adf42fcd0e88f0931a2f885'}
+  - {seq: 0, filename: KR6j0683_000-X.yaml, hash: 'sha256:c270f569cbc7354a42415ab4cc244288a8ce059cba7ee4adbe11f6e797f2edd9'}
   - {seq: 1, filename: KR6j0683_001-X.yaml, hash: 'sha256:972f99cebf0b05e6a9f652ec3e5127d09d2ce0a5ff142a83275da075d84a8099'}
   - {seq: 2, filename: KR6j0683_002-X.yaml, hash: 'sha256:f9c759ccf8fe3dc8de23c1969aa20f9ad25f9b355a890a11bcfc3ce288062bfd'}
   - {seq: 3, filename: KR6j0683_003-X.yaml, hash: 'sha256:dae20796d6ae0729aac9a5edcbe645aae3c8de08e8dd0e101f8913a657b18371'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6j0683_009-X.yaml, hash: 'sha256:c06547e39c792fb87973a47eb6fcc2ff817e282a12753e82be62067893aaa3da'}
   - {seq: 10, filename: KR6j0683_010-X.yaml, hash: 'sha256:5ded917c6b0e5cee83223e6e66e73959350b9f72aedf6ed2063dac5d3a515bef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0683_000-X.markers.yaml, hash: 'sha256:8d41cd569e281ee003e4cd6e620dfa2f1e8c4d5d51052e1820ac15beb2cf025d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0683_000-X.markers.yaml, hash: 'sha256:d7c93fd81105fec0f8b79da9ec518c256589db184353e4cb444a01b23cddff76'}
   - {seq: 1, role: markers, filename: assets/KR6j0683_001-X.markers.yaml, hash: 'sha256:a7a0841a86037a1b4a9720192ae93540f9b72f42f649878bf656b862fbd713cd'}
   - {seq: 2, role: markers, filename: assets/KR6j0683_002-X.markers.yaml, hash: 'sha256:5b9800f2056a7826f258ad1a9160866aa450af53b4b7065eb0cf91766dd280d4'}
   - {seq: 3, role: markers, filename: assets/KR6j0683_003-X.markers.yaml, hash: 'sha256:51383f483a3148ceedaac0e79ec515c1e0717f2940a07c9500c92b56ab0f479d'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0683_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 275-A 大佛頂首楞嚴經正脉疏序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0683_X_000-mulu-2
     span:
-    - front
+    - body
     - 1055
     - 1055
   label: 楞嚴經正脉疏
@@ -183,4 +183,4 @@ table_of_contents:
   label: No. 275-C
   type: mulu
   level: 1
-hash: sha256:378a84c6118f5b7af5415de164a19b3143b88c6de564eb7588c31e52ccf84a98
+hash: sha256:2be863daa538533a7922c8a480e0262a77811efdf29e1d97417b7730a6aaa428
